@@ -1,6 +1,8 @@
 <nav class="col span_10 top-navbar">
-  {% for link in site.data.links %}
-  <a href="{{ link.url }}" title="{{ link.title }}"
-     {% if page.title == link.title %}class="current-page"{% endif %}>{{ link.title }}</a>
-  {% endfor %}
+  <a href="{{ site.basurl }}/"
+    {% if page.path == 'index.html' || '' %}class="current-page"{% endif %}>{{ site.title }}</a>
+  {% for pageNav in site.pages %}{% if pageNav.title %}
+  <a href="{{ pageNav.url | prepend: site.baseurl }}" title="{{ pageNav.title }}"
+     {% if page.title == pageNav.title %}class="current-page"{% endif %}>{{ pageNav.title }}</a>
+  {% endif %}{% endfor %}
 </nav>

@@ -1,0 +1,26 @@
+---
+layout: page
+title: Categories
+permalink: /categories/
+---
+
+<section class="archive">
+{% capture categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign category = categories | split:',' | sort %}
+{% for item in (0..site.categories.size) %}{% unless forloop.last %}
+{% capture word %}{{ category[item] | strip_newlines }}{% endcapture %}
+<div class="bundle row gutters fadeInDown animated">
+<h3 class="post-year col span_3" id="{{ word }}">{{ word }}</h3>
+<div class="posts-by-year col span_9">
+
+{% for post in site.categories[word] %}{% if post.title != null %}
+<article class="row gutters">
+  <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}" class="col span_8">{{ post.title }}</a>
+  <div class="post-date col span_4">
+    <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%-d %b %Y" }}</time>
+  </div>
+</article>
+{% endif %}{% endfor %}
+</div></div>
+{% endunless %}{% endfor %}
+</section>
