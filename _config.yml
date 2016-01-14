@@ -12,7 +12,8 @@ github_username: github_username # replace with your github username
 ########################## DO NOT EDIT BELOW HERE UNLESS YOU'RE STOKED TO HACK
 # build settings
 markdown: kramdown
-highlighter: rouge
+# highlighter: rouge # for local testing
+highlighter: pygments # for deployment to github pages
 permalink:  /blog/:year-:month-:day/:title.html
 kramdown:
   input: GFM
