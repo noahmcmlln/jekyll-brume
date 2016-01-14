@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Home
 ---
-
+<h1>{{ site.title }}</h1>
+<p>
+  {{ site.description }}
+</p>
 <section class="archive">
 {% for post in site.posts %}
 {% unless post.next %}
@@ -26,8 +28,8 @@ title: Home
 {% endif %}
 {% endunless %}
 
-  <article class="row gutters">
-    <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}" class="col span_8">{{ post.title }}</a>
+  <article class="row gutters" style="padding-bottom: 10px;">
+    <span class="col span_8"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.categories.first != null %}<br><span style="font-size: .8rem;">In: {% for category in post.categories %}<a href="{{ site.baseurl }}/categories/#{{ category }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}{% if forloop.last %}.{% endif %}{% endfor %}</span>{% endif %}</span>
     <div class="post-date col span_4">
       <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%-d %B" }}</time>
     </div>
