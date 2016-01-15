@@ -1,13 +1,13 @@
 ########################### EDIT YOUR SETTINGS HERE
 # Site settings
-title: Brume # give your site a title
-email: you@example.com # put your email address in here; optional
+title: Noah McMullen's Cool Blog for Adults # give your site a title
+email: noahmcmlln@gmail.com # put your email address in here; optional
 # edit your site description; keep it brief
 description: > # this just means to ignore newlines until "baseurl:"
-  Brume is simple. It's easy to use. It's a Jekyll theme.
+  The adventures of a theory boy who's kind of afraid to code but will do it anyway.
 baseurl:  # the subpath of your site, e.g. /blog/; if unsure, leave this blank
-url: http://[username].github.io # replace [username] with your github username (no brackets)
-github_username: github_username # replace with your github username
+url: http://noahmcmlln.github.io # replace [username] with your github username (no brackets)
+github_username: noahmcmlln # replace with your github username
 
 ########################## DO NOT EDIT BELOW HERE UNLESS YOU'RE STOKED TO HACK
 # build settings
