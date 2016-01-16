@@ -3,7 +3,7 @@ Brume is one of three Jekyll templates that have been customized for our use in 
 ### Getting Started Blogging with Jekyll
 You'll almost certainly only need to interact with this repository exactly once ever, at the beginning of the semester, with Scott present. But, here are some instructions on how to get started blogging with Jekyll.
 
-[View a live demo of Brume](http://kredati.github.io/jekyll-brume).
+[View a live demo of Brume](http://eng7006student.github.io).
 
 1. **Fork this repository.**  If you're logged into GitHub, you can fork the repository by click on the little "Fork" button at the top right.
 
