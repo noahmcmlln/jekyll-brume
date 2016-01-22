@@ -1,11 +1,10 @@
 ########################### EDIT YOUR SETTINGS HERE
 # Site settings
-title: Noah McMullen's Cool Blog for Adults # give your site a title
+
+title: Noah McMullen's Cool New Theory/Practice Blog # give your site a title
 email: noahmcmlln@gmail.com # put your email address in here; optional
 # edit your site description; keep it brief
-description: > # this just means to ignore newlines until "baseurl:"
-  The adventures of a theory boy who's kind of afraid to code but will do it anyway.
-baseurl:  # the subpath of your site, e.g. /blog/; if unsure, leave this blank
+description: scared of code and learning to deal with it
 url: http://noahmcmlln.github.io # replace [username] with your github username (no brackets)
 github_username: noahmcmlln # replace with your github username
 
