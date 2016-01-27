@@ -1,0 +1,16 @@
+---
+layout: post
+title: Baby's Day out
+description: Still scared but less so.
+categories: coding blog
+---
+
+As of right now, I’m still trying to figure out if there’s a way that I can get GitHub set up on my work computer that’s still running Windows XP and I’m getting over a cold and code is still at some level terrifying to me even though things have been going ok???
+
+I’d say that I’m having an experience, certainly, but this technical and personal troubleshooting isn’t enough to dissuade me from the fact that I think I actually like coding! It’s emulating what I remember being my favorite things about math: proofs, specifically, and other deductive stuff.  
+
+I am finding, at least for the time being, that having some bare-bones experience in Twine is helping me out A LOT, in terms of my understanding of phrases and variables and all this other computer stuff that has been otherwise kind of alien to me. I am ALSO finding that p5.js is serving as sort of a “gateway drug” to the real shit. The relative simplicity of the dailies has been inspiring me to get “fancy” with my little sketches (i.e. incorporating hex code colors, quadrangles – real basic stuff, but considering my knowledge level at the start I’m feeling pretty good about my progress). In turn, this desire for fanciness has led to a rekindling in faith that I, someday, could make a video game. And that’s very exciting, considering how much passion I have for games as a thing, as well as how much desire I have to see games accomplish new things. I think p5.js, despite its definite limitations, is pretty great at serving as training wheels for coding as an enterprise; letting one get accustomed to the idea of objects, functions, etc., before they careen off towards newer, less-guarded avenues. Nevertheless, this trailblazing, much like my experience in learning how to ride a bike, will probably lead to quite a few skinned knees before it finally clicks. At least, that’s what I’m expecting.
+
+I’m still vaguely hesitant at the idea of coding, but I’m pretty sure that’s to be expected at this point; in my experience in the vanilla humanities, the idea of doing math/science still scares a lot of people shitless (myself, of course, included). But I think that p5.js, being the artsiest coding enterprise that I’ve encountered thus far in my exposure to the field (I took a class on Dreamweaver in high school but never exactly learned enough to make anything that remotely looked good), has been pretty great so far as a learning tool for people like me who think of coding as being outside of their wheelhouse. I’d definitely recommend p5.js to other beginners given the chance, and I think that it’d be incredibly useful in various K-12 educational settings.
+
+So overall: I like coding, even though it’s taking a little bit of effort to work out some of the kinks (if you’re reading this post right now then that’s a good sign as to my progress). In much the same way that [David talks about learning "that programming can be fun - again"](http://davidlnowak.github.io/blog/2016-01-21/post-week2-coding.html) through p5.js, I'm finding that programming can be fun for the first time, which, to be frank, is pretty fucking exciting.
