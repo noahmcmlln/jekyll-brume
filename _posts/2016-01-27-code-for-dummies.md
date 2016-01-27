@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Baby's Day out
+title: Baby's Day Out
 description: Still scared but less so.
 categories: coding blog
 ---
