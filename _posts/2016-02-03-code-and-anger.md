@@ -2,10 +2,10 @@
 layout: post
 title: Code, Games, and Anger
 description: gettin mad at machines
-tags: coding blog
+categories: coding blog
 ---
 
-Before I begin, I just want to say that last week's lesson was intensely helpful to me in a number of ways: GitHub, p5.js, objecty stuff, what have you. 
+Before I begin, I just want to say that last week's lesson was intensely helpful to me in a number of ways: GitHub, p5.js, objecty stuff, what have you.
 
 I also want to say (not trying to make excuses but eh) that last week was one of the worst I've had stress-wise in quite a while and that, as such, I've been slacking on the dailies, which isn't good. But as of recently I've been making up for lost time (trying to do the most recent stuff first because that makes sense to me).
 

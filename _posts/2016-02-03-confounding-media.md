@@ -2,7 +2,7 @@
 layout: post
 title: Kittler's "Phonograph" and Confounded Media
 description: Making sense out of the real
-tags: blog seminar
+categories: blog seminar
 ---
 
 In contrast with the scatttershot approach Marshall McLuhan uses in *Understanding Media*, Friedrich Kittler seems to have a pretty good idea of what he's talking about, even when his ideas are pretty out there; as such, I found "Gramophone" to be kind of a joy to read, despite its length and semi-density. And it helps that what I see as his central claim is something that I fundamentally agree with, as well as one that I've been arguing for quite a while, albeit on a much smaller and less thoroughly researched scale (my continued defense of various kinds of electronic music and abstract art as being valid, even good, to various YouTube commenter types).
