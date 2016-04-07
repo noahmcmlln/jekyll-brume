@@ -1,0 +1,12 @@
+---
+layout: post
+title: Jagoda's Extreme Middle Ground
+description: ok
+categories: seminar blog
+---
+
+I'm never one to decry the present moment as being something fundamentally different or worse than the past, but as of recently I've begun thinking about an increasing trend in opinions, or at least the public presentation of them (and this presentation is an interesting phenomenon in itself): it seems harder and harder to find non-diametric oppositions; this phenomenon is especially true when it comes to modern technology. On one side, you have people who waited for weeks to buy Google Glass, on the other, people who think that the government is going to kill them the minute they put their head to a cell phone (this is a joke, but you catch my drift).
+
+Patrick Jagoda addresses this phenomenon, and presents an alternative, in *Network Ambivalence*, an essay and an ethos that I can totally get behind. In my opinion, the position that Jagoda articulates here is something like "diet accelerationism" (and I mean this in the nicest way possible - accelerationism seems kind of like committing suicide by eating 500 Big Macs): rather than a sardonic embrace of everything that networks, and by extension new media, have to offer, Jagoda's ambivalence is instead a somewhat cautious one, a handshake at arm's length. Also, ambivalence affords contemplation, rather than immediate judgement or non-thinking grasp. Networks are not necessarily good or evil: this is an important stance to take.
+
+In his blog post for this week, [Joe](http://joetorok.github.io/blog/2016-04-06/jagoda-ambivalence.html), while agreeing with the majority of Jagoda's argument, says that "the middle ground stance articulated in that passage ["...naive complicity", Jagoda 115] risks a perhaps too-comfortable political stance". I disagree. I think that the fact that Jagoda is articulating a stance like this is already kind of a political move, especially considering his discussion of the network as privilege on 112; rather than the act of abandoning the network, which is both somewhat privileged and somewhat dismissive of the network as anything but a personal problem, or naively embracing the network, which likewise dismisses its politics, ambivalence requires serious contemplation of the network as something beyond a utopia or a dystopia, and I think that this position is something of incredible political worth in a current environment of snap judgements.
